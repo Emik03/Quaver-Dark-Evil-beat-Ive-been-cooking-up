@@ -1443,7 +1443,7 @@ SliderVelocities:
 - StartTime: 6308
   Multiplier: 320000.5
 - StartTime: 6308.015625
-  Multiplier: 0.5
+  Multiplier: 1
 HitObjects:
 - StartTime: 308
   Lane: 2
